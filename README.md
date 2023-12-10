@@ -3,6 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img align="right" src="https://github.com/itech-programmer/itech-programmer/blob/main/avatar.jpg" height="300" width="300">
+![avatar](https://github.com/itech-programmer/itech-programmer/blob/main/avatar.jpg)
 <h3 align="center"> Language & Skills </h3>
 
 - Python
