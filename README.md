@@ -1,8 +1,12 @@
 <img align="left" height="20" src="https://profile-counter.glitch.me/itech-programmer/count.svg"> <h1 align="center">Hi , I'm Davron Obidzhonov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="line-neon.gif" width="100%">
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itech-programmer&show_icons=true&theme=dark&locale=en&layout=compact" alt="itech-programmer" align=left/></p>
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itech-programmer&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itech-programmer&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itech-programmer&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itech-programmer&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itech-programmer&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itech-programmer&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!--
 **itech-programmer/itech-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
