@@ -8,8 +8,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itech-programmer&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itech-programmer&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itech-programmer&theme=dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itech-programmer&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=itech-programmer&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </div>
 <!--
 **itech-programmer/itech-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
