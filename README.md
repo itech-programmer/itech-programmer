@@ -2,13 +2,12 @@
 <img src="line-neon.gif" width="100%">
 
 <div align="center">
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itech-programmer&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itech-programmer&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itech-programmer&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itech-programmer&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itech-programmer&theme=dark)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=itech-programmer)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=itech-programmer&theme=dark&short_numbers=true)](https://git.io/streak-stats)
 </div>
 <!--
 **itech-programmer/itech-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
